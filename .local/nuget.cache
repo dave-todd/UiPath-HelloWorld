@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Eqzy3lUA42aET3jwGQDV1S6F7sS0Elgwyot+wYm98YaMAi6uKHyba+LbgZQuRKXM1lqll1TN8wu3r2YEIxwHig==",
+  "dgSpecHash": "4mGrFBIvQLiCr0iXtWnni3wD89Nzo9OUYAe8Py+4TPKAb4n/0aY2PRdqIZyLtdZgx0ZfF2Dqm6aw3Qo7nPnmig==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\HelloWorld\\HelloWorld\\.local\\",
+  "projectFilePath": "C:\\Dev\\HelloWorld\\UiPath-HelloWorld\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\datodd\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\datodd\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

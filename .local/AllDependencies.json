@@ -8417,9 +8417,9 @@
     "restore": {
       "projectUniqueName": "HelloWorld",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Dev\\HelloWorld\\HelloWorld\\.local",
+      "projectPath": "C:\\Dev\\HelloWorld\\UiPath-HelloWorld\\.local",
       "packagesPath": "C:\\Users\\datodd\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\HelloWorld\\HelloWorld\\.local"
+      "outputPath": "C:\\Dev\\HelloWorld\\UiPath-HelloWorld\\.local"
     },
     "frameworks": {
       "net461": {
